@@ -1,5 +1,8 @@
-# Ordinal Regression in Sports Sciences: A Scoping Review 
-Methodological Quality and Reporting of Regression Models for Ordinal Responses in Sports Sciences Field: A Scoping Review
+# Reporting of Regression Models for Ordinal Responses in Sports Sciences Field: A Systematic Review 
+
+### Manuscript submited in WIREs Computational Statistics
+
+This is the repository for the manuscript "*Reporting of Regression Models for Ordinal Responses in Sports Sciences Field: A Systematic Review *" that is submited in the journal [WIREs Computational Statistics](https://wires.onlinelibrary.wiley.com/journal/19390068).
 
 ## Data
 
