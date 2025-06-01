@@ -54,13 +54,15 @@ List and description of Variables collected and studied for each category
 
 ---
 
+
+
 ## Authors
 
 This dataset was compiled and curated by:
 
 - **Martí Casals Toquero** – [@marticasals](https://github.com/marticasals)
 
-  Affiliation: Universitat de Barcelona (UB)
+  Affiliation: National Institute of Physical Education of Catalonia (INEFC), University of Barcelona, Barcelona, Spain 
 
   [![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--1775--8331-a6ce39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0000-0002-1775-8331)
 
